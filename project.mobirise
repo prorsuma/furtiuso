@@ -37,7 +37,7 @@
     "screenshot": "screenshot.png",
     "lazyLoad": true,
     "lazyType": "placeholder",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/likelikelikeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-128x134.png",
     "noImageResize": ""
   },
   "pages": {
